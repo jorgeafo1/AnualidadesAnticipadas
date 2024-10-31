@@ -76,109 +76,109 @@ Se realizan los calculos:
 
 ```
 
-### 4. Calculo de la tasa del periodo, conociendo valor futuro, número de pagos y monto de la anualidad
+### 4. Calculo de 
 
 
 Para ilustrar el ejemplo se tiene el siguiente ejercico:
 
-$VF$=20,000.00
-$A$=244.89
-$t$=60 meses
+$$=
+$A$=
+$t$=
 
 Se realizan los calculos:
 
 ```{r}
 # Creamos objetos con los valores de entrada:
-VF=20000
-A=244.89
-t=60
-# Calculamos la tasa del periodo
-tasa=r_VF(VF,A,t)
+=
+=
+=
+# Calculamos 
+=(,,)
 # Imprimimos el resultado: 
-tasa
+
 ```
 
-### 5. Calculo del valor actual, conociendo la anualidad, tasa de interés del periodo y el número (plazo) de anualidades
+### 5. Calculo de
 
 
 Para ilustrar el ejemplo se tiene el siguiente ejercico:
 
-$A$=244.89
-$r$=1% mensual
-$t$=60 meses
+$$=
+$$=
+$$=
 
 Se realizan los calculos:
 
 ```{r}
 # Creamos objetos con los valores de entrada:
-A=244.89
-r=0.01
-t=60
-# Calculamos la tasa del periodo
-ValorActual=VA(A,r,t)
+=
+=
+=
+# Calculamos 
+=(,,)
 # Imprimimos el resultado: 
-ValorActual
+
 ```
 
-### 6. Calculo de la anualidad, conociendo valor actual, tasa del periodo y número de pagos
+### 6. Calculo de 
 
 Para ilustrar el ejemplo se tiene el siguiente ejercico:
 
-$VA$=10,000.00
-$r$=1% mensual
-$t$=60 meses
+$$=
+$$=
+$$=
 
 Se realizan los calculos:
 
 ```{r}
 # Creamos objetos con los valores de entrada:
-VA=10000
-r=0.01
-t=60
+=
+=
+=
 # Calculamos la anualidad
-anualidad=A_VA(VA,r,t)
+=(,,)
 # Imprimimos el resultado: 
-anualidad
+
 ```
 
-### 7. Calculo de el número de pagos o plazo, conociendo valor actual, anualidad y tasa del periodo
+### 7. Calculo de 
 
 Para ilustrar el ejemplo se tiene el siguiente ejercico:
 
-$VA$=5,000.00
-$A$=100.00
-$r$=1.00% mensual
+$$=
+$$=
+$$=
 
 Se realizan los calculos:
 
 ```{r}
 # Creamos objetos con los valores de entrada:
-VA=5000
-A=100
-r=0.01
-# Calculamos el número de pagos
-numeroDePagos=t_VA(VA,A,r)
+=
+=
+=
+# Calculamos 
+=(,,)
 # Imprimimos el resultado: 
-numeroDePagos
+
 ```
 
-### 8. Calculo la tasa del periodo, conociendo valor actual, número de pagos y monto de la anualidad.
+### 8. Calculo de
 
 Para ilustrar el ejemplo se tiene el siguiente ejercico:
 
-$VA$=10,000.00
-$A$=300.00
-$t$=36 meses
+$$=
+$$=
+$$=
 
 Se realizan los calculos:
 
 ```{r}
 # Creamos objetos con los valores de entrada:
-VA=10000
-A=300
-t=36
-# Calculamos el número de pagos
-tasa=r_VA(VA,A,t)
+=
+=
+=
+# Calculamos 
+=(,,)
 # Imprimimos el resultado: 
-tasa
+
 ```
