@@ -38,17 +38,17 @@ ValorFuturo
 
 Para ilustrar el ejemplo se tiene el siguiente ejercico:
 
-$VF$=
-$r$=
-$t$
+$VF$=15,000.00
+$r$=0.05
+$t$10
 
 Se realizan los calculos:
 
 ```{r}
 # Creamos objetos con los valores de entrada:
-VF=
-r=
-t=
+VF=15000
+r=0.05
+t=10
 # Calculamos la anualidad
 Anualidad=A_VF(VF,r,t) 
 # Imprimimos el resultado: 
