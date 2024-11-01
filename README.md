@@ -124,17 +124,17 @@ ValorActual
 
 Para ilustrar el ejemplo se tiene el siguiente ejercico:
 
-$VA$=
-$r$=
-$t$=
+$VA$=7,721.33
+$r$=5%
+$t$=10
 
 Se realizan los calculos:
 
 ```{r}
 # Creamos objetos con los valores de entrada:
-VA=
-r=
-t=
+VA=7721.33
+r=0.05
+t=10
 # Calculamos la anualidad
 Anualidad=A_VA(VA,r,t)
 # Imprimimos el resultado: 
