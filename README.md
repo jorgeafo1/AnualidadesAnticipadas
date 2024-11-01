@@ -103,17 +103,17 @@ tasa
 
 Para ilustrar el ejemplo se tiene el siguiente ejercico:
 
-$A$=
-$r$=
-$t$=
+$A$=1,000.00
+$r$=5%
+$t$=10
 
 Se realizan los calculos:
 
 ```{r}
 # Creamos objetos con los valores de entrada:
-A=
-r=
-t=
+A=1000
+r=0.05
+t=10
 # Calculamos el valor actual
 ValorActual=VA(A,r,t)
 # Imprimimos el resultado: 
