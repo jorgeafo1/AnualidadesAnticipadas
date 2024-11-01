@@ -13,7 +13,7 @@ source("https://raw.githubusercontent.com/jorgeafo1/AnualidadesAnticipadas/refs/
 
 A continuacion se dan ejemplos del uso de las formulas correspondientes:
 
-### 1. 
+### 1. Calculo del valor futuro, conociendo la anualidad, tasa de interés del periodo y el número (plazo) de anualidades.
 
 Para ilustrar el ejemplo se tiene el siguiente ejercico:
 
@@ -34,7 +34,7 @@ Se realizan los calculos:
 
 ```
 
-### 2. Calculo de 
+### 2. Calculo de la anualidad, conociendo valor futuro, tasa del periodo y número de pagos.
 
 Para ilustrar el ejemplo se tiene el siguiente ejercico:
 
@@ -55,7 +55,7 @@ Anualidad=(, , )
 
 ```
 
-### 3. Calculo de 
+### 3. Calculo del número de pagos o plazo, conociendo valor futuro, número de pagos y tasa del periodo.
 
 Para ilustrar el ejemplo se tiene el siguiente ejercico:
 
@@ -76,7 +76,7 @@ Se realizan los calculos:
 
 ```
 
-### 4. Calculo de 
+### 4. Calculo de la tasa del periodo, conociendo valor futuro, número de pagos y monto de la anualidad.
 
 
 Para ilustrar el ejemplo se tiene el siguiente ejercico:
@@ -98,7 +98,7 @@ Se realizan los calculos:
 
 ```
 
-### 5. Calculo de
+### 5. Calculo del valor actual, conociendo la anualidad, tasa de interés del periodo y el número (plazo) de anualidades.
 
 
 Para ilustrar el ejemplo se tiene el siguiente ejercico:
@@ -120,7 +120,7 @@ Se realizan los calculos:
 
 ```
 
-### 6. Calculo de 
+### 6. Calculo de la anualidad, conociendo valor actual, tasa del periodo y número de pagos.
 
 Para ilustrar el ejemplo se tiene el siguiente ejercico:
 
@@ -141,7 +141,7 @@ Se realizan los calculos:
 
 ```
 
-### 7. Calculo de 
+### 7. Calculo del número de pagos o plazo, conociendo valor actual, número de pagos y tasa del periodo.
 
 Para ilustrar el ejemplo se tiene el siguiente ejercico:
 
@@ -162,7 +162,7 @@ Se realizan los calculos:
 
 ```
 
-### 8. Calculo de
+### 8. Calculo de la tasa del periodo, conociendo valor actual, número de pagos y monto de la anualidad.
 
 Para ilustrar el ejemplo se tiene el siguiente ejercico:
 
