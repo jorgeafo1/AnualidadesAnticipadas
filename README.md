@@ -39,7 +39,7 @@ ValorFuturo
 Para ilustrar el ejemplo se tiene el siguiente ejercico:
 
 $VF$=15,000.00
-$r$=0.05
+$r$=5%
 $t$10
 
 Se realizan los calculos:
@@ -59,17 +59,17 @@ Anualidad
 
 Para ilustrar el ejemplo se tiene el siguiente ejercico:
 
-$VF$=
-$a$=
-$r$=
+$VF$=15,000.00
+$A$=1,000.00
+$r$=5%
 
 Se realizan los calculos:
 
 ```{r}
 # Creamos objetos con los valores de entrada:
-VF=
-a=
-r=
+VF=15000
+A=1000
+r=0.05
 # Calculamos el numero de pagos
 NumeroDePagos=t_VF(VF,a,r)
 # Imprimimos el resultado: 
