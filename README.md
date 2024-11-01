@@ -8,7 +8,7 @@ Con el siguiente codigo, puede usted cargar las funciones relativas a los calcul
 
 
 ```{r}
-source("")
+source("https://raw.githubusercontent.com/jorgeafo1/AnualidadesAnticipadas/refs/heads/main/Anualidades%20anticipadas.R")
 ```
 
 A continuacion se dan ejemplos del uso de las formulas correspondientes:
