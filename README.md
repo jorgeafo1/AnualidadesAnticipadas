@@ -145,17 +145,17 @@ Anualidad
 
 Para ilustrar el ejemplo se tiene el siguiente ejercico:
 
-$VA$=
-$A$=
-$r$=
+$VA$=8,107.822
+$A$=1000
+$r$=5%
 
 Se realizan los calculos:
 
 ```{r}
 # Creamos objetos con los valores de entrada:
-VA=
-A=
-r=
+VA=8107.822
+A=1000
+r=0.05
 # Calculamos el número de pagos
 NumeroDePagos=t_VA(VA,A,r)
 # Imprimimos el resultado: 
