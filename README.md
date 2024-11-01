@@ -124,7 +124,7 @@ ValorActual
 
 Para ilustrar el ejemplo se tiene el siguiente ejercico:
 
-$VA$=7,721.33
+$VA$=8,107.822
 $r$=5%
 $t$=10
 
@@ -132,7 +132,7 @@ Se realizan los calculos:
 
 ```{r}
 # Creamos objetos con los valores de entrada:
-VA=7721.33
+VA=8107.822
 r=0.05
 t=10
 # Calculamos la anualidad
