@@ -71,7 +71,7 @@ VF=15000
 A=1000
 r=0.05
 # Calculamos el numero de pagos
-NumeroDePagos=t_VF(VF,a,r)
+NumeroDePagos=t_VF(VF,A,r)
 # Imprimimos el resultado: 
 NumeroDePagos
 ```
