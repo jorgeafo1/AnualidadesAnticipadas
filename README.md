@@ -166,17 +166,17 @@ NumeroDePagos
 
 Para ilustrar el ejemplo se tiene el siguiente ejercico:
 
-$VA$=
-$A$=
-$t$=
+$VA$=8,107.822
+$A$=1000
+$t$=10
 
 Se realizan los calculos:
 
 ```{r}
 # Creamos objetos con los valores de entrada:
-VA=
-A=
-t=
+VA=8107.822
+A=1000
+t=10
 # Calculamos la tasa del periodo
 tasa=r_VA(VA,A,t)
 # Imprimimos el resultado: 
