@@ -89,7 +89,7 @@ Se realizan los calculos:
 
 ```{r}
 # Creamos objetos con los valores de entrada:
-VF=15,000
+VF=15000
 t=10
 A=1000
 # Calculamos la tasa del periodo
