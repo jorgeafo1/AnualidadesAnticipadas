@@ -159,7 +159,7 @@ r=0.05
 # Calculamos el número de pagos
 NumeroDePagos=t_VA(VA,A,r)
 # Imprimimos el resultado: 
-tasa
+NumeroDePagos
 ```
 
 ### 8. Calculo de la tasa del periodo, conociendo valor actual, número de pagos y monto de la anualidad.
