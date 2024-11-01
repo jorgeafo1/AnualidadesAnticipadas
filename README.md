@@ -81,7 +81,7 @@ NumeroDePagos
 
 Para ilustrar el ejemplo se tiene el siguiente ejercico:
 
-$VF$=15,000.00
+$VF$=13,206.78716
 $A$=1,000.00
 $t$=10
 
